@@ -10,8 +10,12 @@ I'm Vikash Gill, a passionate software developer and tech enthusiast. Welcome to
 📫 How to reach me:
 
 Email: vikasgill1410@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/vikash-gill-b14472222
+
 GitHub: github.com/VikasGill1410
+
+
 😄 Pronouns: He/Him
 
 Feel free to explore my repositories and connect with me. Happy coding! 🚀 VikasGill1410 VikasGill1410
