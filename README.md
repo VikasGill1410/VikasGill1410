@@ -18,4 +18,4 @@ GitHub: https://github.com/VikasGill1410
 
 😄 Pronouns: He/Him
 
-Feel free to explore my repositories and connect with me. Happy coding! 🚀 VikasGill1410 VikasGill1410
+Feel free to explore my repositories and connect with me. Happy coding! 🚀 VikasGill1410 
