@@ -13,7 +13,7 @@ Email: vikasgill1410@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/vikash-gill-b14472222
 
-GitHub: github.com/VikasGill1410
+GitHub: https://github.com/VikasGill1410
 
 
 😄 Pronouns: He/Him
